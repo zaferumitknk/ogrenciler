@@ -1,2 +1,2 @@
 # ogrenciler
-ogrencilere github'ı tanıtmak
+ogrencilere github'ı tanıtmak ve öyle birşey
